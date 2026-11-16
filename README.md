@@ -187,7 +187,7 @@ The installed application owns the customer research experience. The web control
 
 Configure charts, scanner, evidence, news, risk, activity and journal together. On desktop, detach panel groups into native windows and distribute one saved workspace across multiple displays; link only the panels that should follow the same symbol, horizon or time context.
 
-[See configuration presets, multi-screen setup and comparison with chart-first platforms](docs/MULTI-WINDOW-WORKSPACE.md) · [Read the app and platform guide](docs/APPS-AND-PLATFORMS.md).
+[Explore the flagship workspace](docs/MULTI-WINDOW-WORKSPACE.md) · [Choose a laptop, ultrawide or multi-screen configuration](docs/MULTI-SCREEN-CONFIGURATIONS.md) · [Read the app and platform guide](docs/APPS-AND-PLATFORMS.md).
 
 ## Research and trading modes
 
@@ -244,6 +244,7 @@ OYYO versions the application, public documentation, signal schema, model artifa
 - [Product functionality](docs/FEATURES.md)
 - [Web, desktop and mobile apps](docs/APPS-AND-PLATFORMS.md)
 - [Flagship web and desktop multi-window workspace](docs/MULTI-WINDOW-WORKSPACE.md)
+- [Laptop, ultrawide and multi-screen configurations](docs/MULTI-SCREEN-CONFIGURATIONS.md)
 - [Advanced charts and trader workspaces](docs/CHARTS-AND-WORKSPACES.md)
 - [Trading modes and disclaimers](docs/TRADING-MODES.md)
 - [Broker, MT5 and crypto-exchange connectors](docs/CONNECTORS-AND-VENUES.md)
