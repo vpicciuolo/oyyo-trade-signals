@@ -1,0 +1,27 @@
+name: Documentation correction
+description: Report a public documentation error or broken link
+title: "[Docs]: "
+labels: [documentation]
+body:
+  - type: markdown
+    attributes:
+      value: Do not include credentials, personal data or security vulnerabilities. Report security issues privately using SECURITY.md.
+  - type: input
+    id: page
+    attributes:
+      label: Page or URL
+      placeholder: https://github.com/vpicciuolo/oyyo-trade-signals/...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is incorrect or unclear?
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction and source
+    validations:
+      required: true
