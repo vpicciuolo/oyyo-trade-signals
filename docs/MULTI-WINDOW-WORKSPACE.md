@@ -2,6 +2,60 @@
 
 OYYO Trade Signals gives traders a configurable multi-window workspace in both the **web application** and the **desktop application**. It is a flagship product surface: charts, intelligence, evidence, news, scanner results, strategies, activity, risk and journal context can remain visible together instead of being split across unrelated tabs and tools.
 
+## See the workspace
+
+### Web: one browser, one connected research surface
+
+![OYYO Signals web multi-window workspace](../assets/oyyo-web-multi-window-workspace.svg)
+
+The web example keeps two horizons, scanner/watchlist, full evidence, news/macro, risk/activity and journal visible in one saved browser workspace. Linked badges show which panels follow the active instrument; other panels can remain independent.
+
+### Desktop: one saved workspace across three screens
+
+![OYYO Signals desktop multi-screen workspace](../assets/oyyo-desktop-multi-screen-workspace.svg)
+
+A practical three-screen configuration:
+
+| Screen | Role | Typical panels |
+| --- | --- | --- |
+| **1 · Discover** | Find and compare context | Watchlists, scanner, news, macro calendar, independent cross-market comparison |
+| **2 · Analyze** | Study price and prepare a scenario | Main chart, linked higher/lower horizons, alerts, reviewable eligible ticket |
+| **3 · Decide & review** | Inspect intelligence and control risk | Full evidence/contradiction signal, freshness, uncertainty, model provenance, Risk Center, positions/activity, journal |
+
+The same saved workspace can open as multiple native windows. Move each window to a screen, maximize it, then save the arrangement. Link Group A can synchronize the main symbol/time context across selected panels while the comparison panel remains independent.
+
+## Configuration patterns
+
+| Configuration | Best for | Suggested arrangement |
+| --- | --- | --- |
+| **Focused laptop** | Research on one screen | 2×2 grid: main chart, higher horizon, evidence, news/risk tabs |
+| **Wide-screen web** | Browser-based active research | 3-column grid: charts, intelligence/news, scanner/risk/journal |
+| **Dual screen** | Separate discovery from decision | Screen 1 charts/scanner; Screen 2 evidence/news/risk/journal |
+| **Three screen** | Full discover → analyze → decide/review flow | Screen 1 discovery; Screen 2 linked charts; Screen 3 intelligence and control |
+| **Four screen** | Desk-based multi-market monitoring | Add an independent market/session or activity screen to the three-screen flow |
+
+### Configure multi-screen desktop
+
+```mermaid
+flowchart LR
+    A[Open or create saved workspace] --> B[Choose screen-role preset]
+    B --> C[Detach eligible panel groups]
+    C --> D[Move native windows to displays]
+    D --> E[Assign link groups]
+    E --> F[Keep comparison panels independent]
+    F --> G[Resize and maximize each window]
+    G --> H[Save workspace and display arrangement]
+```
+
+1. Start from a saved workspace or a role preset.
+2. Group panels by job: Discover, Analyze, Decide & Review.
+3. Detach eligible groups into native desktop windows.
+4. Move each window to the preferred monitor.
+5. Assign symbol, horizon and time links only where synchronization helps.
+6. Mark cross-market comparisons as independent.
+7. Resize and maximize for the information density of each screen.
+8. Save the workspace so the arrangement can be restored.
+
 ## Web and desktop availability
 
 | Surface | Multi-window experience |
@@ -61,6 +115,20 @@ A workspace can combine:
 6. Leave a panel independent when comparing instruments or timeframes.
 7. Save the workspace with a clear name such as “BTC session”, “Gold macro” or “FX review”.
 8. Reopen, duplicate or revise saved workspaces as the workflow changes.
+
+## What can be configured
+
+- layout grid, row/column proportions and panel size;
+- panel type and position;
+- saved workspace name, purpose and duplicate;
+- symbol, horizon, crosshair/time and research-context link groups;
+- independent symbol/horizon per comparison panel;
+- chart indicators, overlays, drawings and session context;
+- watchlist and scanner filters;
+- visible evidence, freshness, news, macro, risk, activity and journal panels;
+- desktop native-window placement across available displays;
+- focused/maximized view for any selected panel;
+- density and accessibility preferences supported by the surface.
 
 ## Practical layouts
 
