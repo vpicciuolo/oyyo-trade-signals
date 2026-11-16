@@ -149,6 +149,29 @@ The installed application owns the customer research experience. The web control
 - Account portal, support, privacy and consent controls.
 - Downloads, releases, invoices and billing management.
 
+## Web, desktop and mobile apps
+
+| App | Customer experience |
+| --- | --- |
+| **Web** | Secure account, licensing, billing, invoices, downloads, devices, support and browser-accessible research |
+| **Desktop** | Full multi-window trader workspace, advanced charts, scanners, intelligence, strategy lab, paper/connected modes, risk and journal |
+| **Android** | Standalone touch-first markets, research, paper activity, strategies, alerts, journal, risk and account tools |
+| **iOS** | Standalone mobile experience using the same portable Signals contracts |
+
+[Read the app and platform guide](docs/APPS-AND-PLATFORMS.md).
+
+## Research and trading modes
+
+| Mode | Customer control |
+| --- | --- |
+| **Research** | Charts, scanners, news, evidence, AI research, alerts and journal; no order |
+| **Paper** | Local simulation, ledger, positions and paper-risk controls |
+| **Manual** | Customer reviews and submits the exact eligible ticket |
+| **Supervised** | OYYO prepares an intent; customer approves the exact intent |
+| **Automatic** | Customer-enabled strategy operates only inside fixed local permissions and deterministic limits |
+
+All connected modes require an eligible local connector, explicit permissions, risk checks and a kill switch. AI cannot bypass deterministic controls. [Read trading modes and disclaimers](docs/TRADING-MODES.md).
+
 ## Connectors
 
 | Connector family | How OYYO uses it |
@@ -162,6 +185,8 @@ The installed application owns the customer research experience. The web control
 | Identity and billing | Secure web account and licence lifecycle |
 
 Read the [connector and privacy guide](docs/CONNECTORS.md).
+
+For broker terminals, MT5-compatible local bridges and crypto-exchange adapter rules, read [Broker, terminal and crypto-exchange connectors](docs/CONNECTORS-AND-VENUES.md).
 
 ## Versions that stay understandable
 
@@ -188,6 +213,11 @@ OYYO versions the application, public documentation, signal schema, model artifa
 - [How OYYO Trade Signals works](docs/HOW-IT-WORKS.md)
 - [Agents and intelligence engine](docs/AGENTS-AND-INTELLIGENCE.md)
 - [Product functionality](docs/FEATURES.md)
+- [Web, desktop and mobile apps](docs/APPS-AND-PLATFORMS.md)
+- [Advanced charts and multi-window workspaces](docs/CHARTS-AND-WORKSPACES.md)
+- [Trading modes and disclaimers](docs/TRADING-MODES.md)
+- [Broker, MT5 and crypto-exchange connectors](docs/CONNECTORS-AND-VENUES.md)
+- [Complete trader manual](docs/TRADER-MANUAL.md)
 - [Signals, models and provenance](docs/SIGNALS-AND-MODELS.md)
 - [Versioning](docs/VERSIONING.md)
 - [Connectors and privacy](docs/CONNECTORS.md)
