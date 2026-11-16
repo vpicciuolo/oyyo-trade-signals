@@ -223,6 +223,7 @@ Yes. Save layouts by market, strategy, session or review purpose, then duplicate
 
 ## Related guides
 
+- [Laptop, ultrawide and multi-screen configurations](MULTI-SCREEN-CONFIGURATIONS.md)
 - [Advanced charts and trader workspaces](CHARTS-AND-WORKSPACES.md)
 - [Web, desktop and mobile apps](APPS-AND-PLATFORMS.md)
 - [Signals, models and provenance](SIGNALS-AND-MODELS.md)
