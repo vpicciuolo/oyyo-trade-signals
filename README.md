@@ -179,7 +179,15 @@ The installed application owns the customer research experience. The web control
 | **Android** | Standalone touch-first markets, research, paper activity, strategies, alerts, journal, risk and account tools |
 | **iOS** | Standalone mobile experience using the same portable Signals contracts |
 
-[Explore the flagship multi-window workspace](docs/MULTI-WINDOW-WORKSPACE.md) · [Read the app and platform guide](docs/APPS-AND-PLATFORMS.md).
+### Flagship workspace: browser and multi-screen desktop
+
+![OYYO Signals web multi-window workspace](assets/oyyo-web-multi-window-workspace.svg)
+
+![OYYO Signals desktop multi-screen workspace](assets/oyyo-desktop-multi-screen-workspace.svg)
+
+Configure charts, scanner, evidence, news, risk, activity and journal together. On desktop, detach panel groups into native windows and distribute one saved workspace across multiple displays; link only the panels that should follow the same symbol, horizon or time context.
+
+[See configuration presets, multi-screen setup and comparison with chart-first platforms](docs/MULTI-WINDOW-WORKSPACE.md) · [Read the app and platform guide](docs/APPS-AND-PLATFORMS.md).
 
 ## Research and trading modes
 
