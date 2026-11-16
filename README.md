@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://oyyosignals.trade/assets/brand/oyyo-signals-social-preview-1200x630.jpg" alt="OYYO Signals — Private Market Intelligence. Understand more. Trade with control." width="1200">
+
+<br>
+
 # OYYO Trade Signals
 
 ### Intelligent market understanding. Evidence-rich outputs. Decisions remain yours.
@@ -8,7 +12,9 @@
 
 [Website](https://oyyosignals.trade) · [How it works](docs/HOW-IT-WORKS.md) · [Intelligence engine](docs/AGENTS-AND-INTELLIGENCE.md) · [User guide](docs/USER-GUIDE.md) · [FAQ](docs/FAQ.md)
 
-**Application version `0.2.0` · Documentation version `1.0.0` · Made in UAE 🇦🇪 · Dubai-IT**
+[![Website](https://img.shields.io/badge/Website-oyyosignals.trade-00B8FF?style=for-the-badge)](https://oyyosignals.trade) [![App](https://img.shields.io/badge/App-v0.2.0-0B1B3D?style=for-the-badge)](docs/APPS-AND-PLATFORMS.md) [![Docs](https://img.shields.io/badge/Docs-v1.0.0-7C3AED?style=for-the-badge)](docs/VERSIONING.md)
+
+**Made in UAE 🇦🇪 · Dubai-IT**
 
 </div>
 
