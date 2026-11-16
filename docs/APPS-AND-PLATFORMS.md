@@ -6,7 +6,7 @@ OYYO Trade Signals uses one product contract across web, desktop and mobile whil
 
 | Experience | Primary role |
 | --- | --- |
-| Web | Product information, secure sign-in, account, demo/licence, billing, invoices, downloads, devices, support and browser-accessible research surfaces |
+| Web | Full configurable multi-window research workspace and advanced charts, plus secure sign-in, account, demo/licence, billing, invoices, downloads, devices and support |
 | Desktop | Full multi-window and multi-screen trader workspace, advanced charts, scanners, research, strategy lab, paper/manual workflows, local models, connectors, risk and journal |
 | Android | Standalone touch-first workspace for markets, research records, paper activity, strategy notebook, local alerts, journal, risk controls, account and linked installations |
 | iOS | Standalone mobile workspace using the same portable product contracts and device-appropriate interaction model |
@@ -28,13 +28,15 @@ flowchart LR
 
 Shared contracts keep signal fields, risk rules, mode names, entitlement semantics and connector permissions consistent. Layouts remain native to the device.
 
-## Web account and control plane
+## Web workspace and control plane
 
-The web experience manages identity, MFA, licences, devices, downloads, billing, invoices, consent records, notifications and support. It does not need custody of venue credentials or customer assets.
+The web application includes the configurable multi-window trader workspace: saved layouts, resizable charts, watchlists, signals, evidence, news, scanners, strategies, alerts, paper activity, risk and journal surfaces can be arranged and linked in a supported browser. It also manages identity, MFA, licences, devices, downloads, billing, invoices, consent records, notifications and support. It does not need custody of venue credentials or customer assets.
+
+[Explore the flagship multi-window workspace](MULTI-WINDOW-WORKSPACE.md).
 
 ## Desktop workspace
 
-Desktop is optimized for information density: saved workspaces, detachable or multi-panel views, several charts, watchlists, signal evidence, news, scanners, transactions, positions, risk and journal. Local models and customer-enabled connectors run within the installed runtime boundary.
+Desktop extends the web workspace with native multi-window, multi-screen and local-runtime depth. It is optimized for information density: saved workspaces, detachable or multi-panel views, several charts, watchlists, signal evidence, news, scanners, transactions, positions, risk and journal. Local models and customer-enabled connectors run within the installed runtime boundary.
 
 ## Mobile workspace
 
