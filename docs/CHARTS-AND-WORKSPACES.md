@@ -1,6 +1,8 @@
 # Advanced charts and trader workspaces
 
-OYYO Trade Signals provides a configurable multi-window research environment for customers who need several markets, time horizons and evidence sources visible at once.
+OYYO Trade Signals provides a configurable multi-window research environment on **web and desktop** for customers who need several markets, time horizons and evidence sources visible at once. Desktop adds native detachable windows, multi-screen depth, local models and local connectors; the web application provides the configurable workspace directly in a supported browser.
+
+For configuration examples, linked-context behavior and a fair comparison with chart-first platforms, see the [dedicated multi-window workspace guide](MULTI-WINDOW-WORKSPACE.md).
 
 ## Workspace architecture
 
