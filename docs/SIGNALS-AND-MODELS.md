@@ -32,7 +32,7 @@ flowchart TD
     F --> G[Versioned OYYO model workflow]
 ```
 
-The dedicated [OYYO-SIGNALS-TINY-ALL model page](OYYO-SIGNALS-TINY-ALL.md) documents the S1–S4 profiles, device selection, integrity checks, agent flow, output contract and release-specification boundaries.
+The dedicated [OYYO-SIGNAL-TINY-ALL 2026.11.1 model page](OYYO-SIGNALS-TINY-ALL.md) documents Ask OYYO, the S1–S4 profiles, device selection, integrity checks, agent flow, proposal contract, observation contract and release boundaries.
 
 OYYO model catalogs describe identity, capabilities and requirements. Availability in Trade Signals depends on device qualification and the versioned product workflow. See [OYYO Models](https://github.com/vpicciuolo/oyyo-models) and [OYYO Benchmark](https://github.com/vpicciuolo/oyyo-benchmark).
 

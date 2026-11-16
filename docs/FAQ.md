@@ -1,5 +1,13 @@
 # Frequently asked questions
 
+## What is Ask OYYO?
+
+Ask OYYO is the private on-device conversation layer in Android 0.8.0. OYYO-SIGNAL-TINY-ALL 2026.11.1 can explain a market or prepare a reviewable analysis, paper-plan or alert proposal from an ordinary-language request. It runs locally and cannot submit a real order from the assistant screen.
+
+## Which model information is shown in the app?
+
+Normal customer screens show the OYYO family name, OYYO version, selected S1–S4 tier and local verification/update status.
+
 ## What is OYYO Trade Signals?
 
 A customer-controlled market-intelligence workspace for research, structured observations, alerts, strategy work, paper trading, journaling and risk controls across crypto, gold, forex and indices.

@@ -37,8 +37,9 @@ Catalogs can use date-based versions. Model artifacts also retain provider ident
 
 ## Current public versions
 
-- Application: `0.2.0`
-- Documentation: `1.0.0`
+- Android application: `0.8.0`
+- OYYO-SIGNAL-TINY-ALL: `2026.11.1`
+- Documentation: `1.1.0`
 - Signal contract: `signals.output.v1`
 
 Platform download pages and signed release records identify the exact artifact for each supported device.

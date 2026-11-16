@@ -12,7 +12,7 @@
 
 [Website](https://oyyosignals.trade) · [How it works](docs/HOW-IT-WORKS.md) · [Intelligence engine](docs/AGENTS-AND-INTELLIGENCE.md) · [User guide](docs/USER-GUIDE.md) · [FAQ](docs/FAQ.md)
 
-[![Website](https://img.shields.io/badge/Website-oyyosignals.trade-00B8FF?style=for-the-badge)](https://oyyosignals.trade) [![App](https://img.shields.io/badge/App-v0.2.0-0B1B3D?style=for-the-badge)](docs/APPS-AND-PLATFORMS.md) [![Docs](https://img.shields.io/badge/Docs-v1.0.0-7C3AED?style=for-the-badge)](docs/VERSIONING.md)
+[![Website](https://img.shields.io/badge/Website-oyyosignals.trade-00B8FF?style=for-the-badge)](https://oyyosignals.trade) [![Android](https://img.shields.io/badge/Android-v0.8.0-0B1B3D?style=for-the-badge)](docs/APPS-AND-PLATFORMS.md) [![Model](https://img.shields.io/badge/OYYO--SIGNAL--TINY--ALL-2026.11.1-7C3AED?style=for-the-badge)](docs/OYYO-SIGNALS-TINY-ALL.md)
 
 **Made in UAE 🇦🇪 · Dubai-IT**
 
@@ -85,6 +85,19 @@ flowchart TD
 The intelligence layer uses coordinated specialist responsibilities. Each specialist examines a bounded part of the question; the evidence coordinator combines compatible findings; risk and contradiction review searches for missing, stale or opposing information; and OYYO produces one readable result.
 
 [Explore the complete agent and intelligence flow](docs/AGENTS-AND-INTELLIGENCE.md).
+
+## Ask OYYO on your device
+
+Android 0.8.0 introduces private local conversation powered by **OYYO-SIGNAL-TINY-ALL 2026.11.1**. A customer can describe a goal in ordinary language, use guided one-tap prompts and review an OYYO proposal before anything is saved.
+
+- Explains a selected market in plain language.
+- Proposes a local analysis, paper plan or price alert.
+- Asks a follow-up when essential information is missing.
+- Requires customer confirmation and deterministic application validation.
+- Runs inference locally without an external model API or MCP connection.
+- Shows only the OYYO family, OYYO version, S1–S4 tier and verified local status in normal UI.
+
+The current assistant screen does not submit real orders.
 
 ## The OYYO signal contract
 
@@ -176,7 +189,7 @@ The installed application owns the customer research experience. The web control
 | --- | --- |
 | **Web** | Full configurable multi-window trader workspace and advanced charts, plus account, licensing, billing, downloads, devices and support |
 | **Desktop** | Full multi-window trader workspace, advanced charts, scanners, intelligence, strategy lab, paper/connected modes, risk and journal |
-| **Android** | Standalone touch-first markets, research, paper activity, strategies, alerts, journal, risk and account tools |
+| **Android** | Standalone touch-first workspace with Ask OYYO local intelligence, markets, research, paper activity, strategies, alerts, journal, risk and account tools |
 | **iOS** | Standalone mobile experience using the same portable Signals contracts |
 
 ### Flagship workspace: browser and multi-screen desktop
@@ -249,7 +262,7 @@ OYYO versions the application, public documentation, signal schema, model artifa
 - [Trading modes and disclaimers](docs/TRADING-MODES.md)
 - [Broker, MT5 and crypto-exchange connectors](docs/CONNECTORS-AND-VENUES.md)
 - [Complete trader manual](docs/TRADER-MANUAL.md)
-- [OYYO-SIGNALS-TINY-ALL model detail page](docs/OYYO-SIGNALS-TINY-ALL.md)
+- [OYYO-SIGNAL-TINY-ALL model detail page](docs/OYYO-SIGNALS-TINY-ALL.md)
 - [Signals, models and provenance](docs/SIGNALS-AND-MODELS.md)
 - [Versioning](docs/VERSIONING.md)
 - [Connectors and privacy](docs/CONNECTORS.md)

@@ -31,6 +31,10 @@ Paper results do not reproduce every live-market condition, including liquidity,
 
 ## Intelligence and models
 
+- Ask OYYO private local conversation on Android 0.8.0.
+- OYYO-SIGNAL-TINY-ALL 2026.11.1 with automatic S1–S4 device selection.
+- Verified, resumable model-package download into private application storage.
+- Typed analysis, paper-plan and alert proposals with customer confirmation.
 - OYYO coordination across market, source, evidence and risk responsibilities.
 - Device-qualified model execution.
 - Model/workflow version attached to outputs.

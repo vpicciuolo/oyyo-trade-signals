@@ -8,7 +8,7 @@ OYYO Trade Signals uses one product contract across web, desktop and mobile whil
 | --- | --- |
 | Web | Full configurable multi-window research workspace and advanced charts, plus secure sign-in, account, demo/licence, billing, invoices, downloads, devices and support |
 | Desktop | Full multi-window and multi-screen trader workspace, advanced charts, scanners, research, strategy lab, paper/manual workflows, local models, connectors, risk and journal |
-| Android | Standalone touch-first workspace for markets, research records, paper activity, strategy notebook, local alerts, journal, risk controls, account and linked installations |
+| Android | Standalone touch-first workspace with Ask OYYO local intelligence, markets, research records, paper activity, strategy notebook, local alerts, journal, risk controls, account and linked installations |
 | iOS | Standalone mobile workspace using the same portable product contracts and device-appropriate interaction model |
 
 ## Shared product contract
@@ -41,6 +41,10 @@ Desktop extends the web workspace with native multi-window, multi-screen and loc
 ## Mobile workspace
 
 Mobile is not a remote-control-only companion. It provides its own local workspace and account-aware tools. Phone layouts prioritize one focused task at a time while preserving the same research, paper, risk and provenance concepts.
+
+### Android 0.8.0 local intelligence
+
+The Android application selects an S1–S4 package for **OYYO-SIGNAL-TINY-ALL 2026.11.1**, downloads it over HTTPS, verifies its exact byte length and SHA-256, and activates it in private application storage. Ask OYYO can explain markets and create reviewable analysis, paper-plan and alert proposals. Inference remains on the device; generated proposals require customer confirmation and deterministic validation.
 
 ## Continuity and devices
 

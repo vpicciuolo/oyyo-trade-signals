@@ -21,19 +21,28 @@ Link an eligible installation to your account. Review and revoke devices in the 
 5. Review uncertainty, limitations, model version and provenance.
 6. Save strategy notes and journal entries.
 
-## 5. Read an OYYO observation
+## 5. Ask OYYO
+
+1. Open **Ask OYYO** from the OYYO intelligence button.
+2. Choose a guided prompt or describe what you want in ordinary language.
+3. Review the explanation and any proposed market, strategy, risk style or alert threshold.
+4. Choose **Change** to continue the conversation or **Confirm** to let deterministic application code validate and save the proposal.
+
+Ask OYYO runs locally with OYYO-SIGNAL-TINY-ALL 2026.11.1. The screen displays the active S1–S4 tier and local status. It cannot submit a real order.
+
+## 6. Read an OYYO observation
 
 Check all thirteen output fields. Pay special attention to horizon, freshness, uncertainty, opposing evidence, limitations, model identity and provenance. A market-state label is informational rather than a personal recommendation.
 
-## 6. Configure alerts
+## 7. Configure alerts
 
 Create rules from inputs available to the application. Confirm time zone, market session and freshness assumptions. Alerts can be delayed or missed and do not execute transactions.
 
-## 7. Use paper trading
+## 8. Use paper trading
 
 Review instrument, side, quantity, reference price and notional before recording a paper ticket. Use notional and daily-loss limits and the paper kill switch. Paper outcomes do not represent every live-market condition.
 
-## 8. Review and learn
+## 9. Review and learn
 
 Connect research assumptions, paper activity and outcomes in the journal. Compare supporting and opposing evidence and note what changed between the original observation and later review.
 

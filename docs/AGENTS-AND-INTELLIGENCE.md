@@ -2,6 +2,10 @@
 
 OYYO intelligence is organized as a coordinated team rather than a single opaque response. Each agent responsibility has a defined input, bounded analysis task and expected contribution. The coordinator assembles evidence; the review layer challenges it; synthesis creates the customer-facing output.
 
+## Ask OYYO conversation layer
+
+On Android 0.8.0, OYYO-SIGNAL-TINY-ALL 2026.11.1 provides a local conversational entry point. It converts a plain-language goal into either an explanation, a follow-up question or a typed proposal for analysis, a paper plan or an alert. A proposal is never treated as an executed action: the customer confirms it and deterministic application code validates the supported symbol and required fields.
+
 ## Agent collaboration map
 
 ```mermaid
