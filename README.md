@@ -159,12 +159,12 @@ The installed application owns the customer research experience. The web control
 
 | App | Customer experience |
 | --- | --- |
-| **Web** | Secure account, licensing, billing, invoices, downloads, devices, support and browser-accessible research |
+| **Web** | Full configurable multi-window trader workspace and advanced charts, plus account, licensing, billing, downloads, devices and support |
 | **Desktop** | Full multi-window trader workspace, advanced charts, scanners, intelligence, strategy lab, paper/connected modes, risk and journal |
 | **Android** | Standalone touch-first markets, research, paper activity, strategies, alerts, journal, risk and account tools |
 | **iOS** | Standalone mobile experience using the same portable Signals contracts |
 
-[Read the app and platform guide](docs/APPS-AND-PLATFORMS.md).
+[Explore the flagship multi-window workspace](docs/MULTI-WINDOW-WORKSPACE.md) · [Read the app and platform guide](docs/APPS-AND-PLATFORMS.md).
 
 ## Research and trading modes
 
@@ -220,10 +220,12 @@ OYYO versions the application, public documentation, signal schema, model artifa
 - [Agents and intelligence engine](docs/AGENTS-AND-INTELLIGENCE.md)
 - [Product functionality](docs/FEATURES.md)
 - [Web, desktop and mobile apps](docs/APPS-AND-PLATFORMS.md)
-- [Advanced charts and multi-window workspaces](docs/CHARTS-AND-WORKSPACES.md)
+- [Flagship web and desktop multi-window workspace](docs/MULTI-WINDOW-WORKSPACE.md)
+- [Advanced charts and trader workspaces](docs/CHARTS-AND-WORKSPACES.md)
 - [Trading modes and disclaimers](docs/TRADING-MODES.md)
 - [Broker, MT5 and crypto-exchange connectors](docs/CONNECTORS-AND-VENUES.md)
 - [Complete trader manual](docs/TRADER-MANUAL.md)
+- [OYYO-SIGNALS-TINY-ALL model detail page](docs/OYYO-SIGNALS-TINY-ALL.md)
 - [Signals, models and provenance](docs/SIGNALS-AND-MODELS.md)
 - [Versioning](docs/VERSIONING.md)
 - [Connectors and privacy](docs/CONNECTORS.md)
