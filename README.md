@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://oyyosignals.trade/assets/brand/oyyo-signals-social-preview-1200x630.jpg" alt="OYYO Signals — Private Market Intelligence. Understand more. Trade with control." width="1200">
+<img src="assets/oyyo-signals-hero.svg" alt="OYYO Signals — Private market intelligence. Understand more. Trade with control." width="1200">
 
 <br>
 
