@@ -18,6 +18,21 @@
 
 </div>
 
+## Official OYYO Signals identity
+
+<table>
+<tr>
+<td width="62%" align="center"><img src="assets/oyyo-signals-original-logo.svg" alt="Original OYYO Signals logo" width="560"></td>
+<td width="38%" align="center"><img src="assets/oyyo-signals-original-mascot.svg" alt="Original OYYO robot mascot" width="260"></td>
+</tr>
+<tr>
+<td align="center"><strong>Approved original OYYO Signals logo</strong></td>
+<td align="center"><strong>Original OYYO mascot</strong></td>
+</tr>
+</table>
+
+The logo, icon, mascot and hero artwork are official OYYO Signals brand assets. Do not redraw, recolor or replace them with generic trading marks.
+
 > [!IMPORTANT]
 > OYYO Trade Signals is market-intelligence and decision-support software. It does not provide investment advice or personal recommendations, is not a broker, and does not place trades for you. Trading involves substantial risk of loss. Simulated or past results do not indicate future results.
 
